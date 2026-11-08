@@ -1,4 +1,4 @@
-## About Me:
+## About Me
 
   I am Yanawut, a 3rd-year Computer Engineering student at SIIT, Thammasat University, with hands-on experience in field engineering and software development. I am an **ICPC Thailand National Contest 2026 Finalist**
   with a strong interest in backend systems, algorithms, and software engineering. I enjoy tackling challenging problems, building practical solutions, and continuously expanding my technical skills.
